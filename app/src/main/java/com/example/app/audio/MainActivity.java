@@ -1,7 +1,6 @@
-package com.valdioveliu.valdio.audioplayer;
+package com.example.app.audio;
 
 import android.Manifest;
-import android.annotation.TargetApi;
 import android.content.ComponentName;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -39,6 +38,8 @@ import java.util.List;
 import java.util.Map;
 
 import static android.os.Build.VERSION.SDK_INT;
+
+import com.example.app.audioplayer.R;
 
 public class MainActivity extends AppCompatActivity {
 

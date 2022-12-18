@@ -1,4 +1,4 @@
-package com.valdioveliu.valdio.audioplayer;
+package com.example.app.audio;
 
 
 import java.io.Serializable;

@@ -1,4 +1,4 @@
-package com.valdioveliu.valdio.audioplayer;
+package com.example.app.audio;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.app.audioplayer.R;
 
 import java.util.Collections;
 import java.util.List;

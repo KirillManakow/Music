@@ -1,4 +1,4 @@
-package com.valdioveliu.valdio.audioplayer;
+package com.example.app.audioplayer;
 
 import org.junit.Test;
 

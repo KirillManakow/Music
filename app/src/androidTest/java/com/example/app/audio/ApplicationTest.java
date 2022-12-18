@@ -1,4 +1,4 @@
-package com.valdioveliu.valdio.audioplayer;
+package com.example.app.audioplayer;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

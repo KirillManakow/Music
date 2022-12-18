@@ -1,4 +1,4 @@
-package com.valdioveliu.valdio.audioplayer;
+package com.example.app.audio;
 
 import android.annotation.SuppressLint;
 import android.app.Notification;
@@ -26,6 +26,8 @@ import android.support.v4.media.session.MediaSessionCompat;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.util.Log;
+
+import com.example.app.audioplayer.R;
 
 import java.io.IOException;
 import java.util.ArrayList;
